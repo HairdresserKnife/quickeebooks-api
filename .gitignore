@@ -1,0 +1,10 @@
+quickeebooks.log
+tmp/*
+*.pdf
+quickeebooks-*.gem
+coverage
+.DS_Store
+Gemfile.lock
+.rvmrc
+*~
+.idea
